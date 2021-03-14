@@ -3,3 +3,6 @@
 
 #CSV
 *.csv
+
+#jupyters
+.ipynb_checkpoints
